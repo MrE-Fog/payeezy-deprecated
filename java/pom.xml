@@ -42,7 +42,7 @@
   	</dependency>
   </dependencies>
   <properties>
-  	<spring-version>3.2.8.RELEASE</spring-version>
+  	<spring-version>6.0.0</spring-version>
   </properties>
   <build>
   	<plugins>
